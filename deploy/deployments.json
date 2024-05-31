@@ -18,5 +18,11 @@
   "referral": {
     "address": "0x84cdd36D94E5896FDbA64C2B1e1d2C3A55c57EDF",
     "reDeploy": false
+  },
+  "paymaster": {
+    "address": "0xBce46B6E14679529881Af851dDEa6B9ba4fDD624"
+  },
+  "mockUsdc": {
+    "address": "0xcE4b9A2e9dD0635c5980e1fa91e4057795e60f04"
   }
 }

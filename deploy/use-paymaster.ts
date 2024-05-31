@@ -46,9 +46,7 @@ export default async function (hre: HardhatRuntimeEnvironment) {
   const paymasterParams = utils.getPaymasterParams(PAYMASTER_ADDRESS, {
     type: "ApprovalBased",
     token: TOKEN_ADDRESS,
-    // set minimalAllowance as we defined in the paymaster contract
     minimalAllowance: BigInt("1"),
-    // empty bytes as testnet paymaster does not use innerInput
     innerInput: new Uint8Array(),
   });
 
