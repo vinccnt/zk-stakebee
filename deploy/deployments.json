@@ -1,0 +1,22 @@
+{
+  "timelock": {
+    "address": "0x2bbA0e65582ecB30329e8993e4132100D514cDD0",
+    "reDeploy": false
+  },
+  "bETH": {
+    "address": "0x8Ca4a1c501A5d319d30a80a2aDf2226fd4f9A6A8",
+    "reDeploy": false
+  },
+  "ztbETH": {
+    "address": "0x5fE1Ff709c2b88c9bDE1175556a039bc0a4c0E10",
+    "reDeploy": false
+  },
+  "minter": {
+    "address": "0x2cABA947FB69fFfE6c4404682CB0512A94D22318",
+    "reDeploy": false
+  },
+  "referral": {
+    "address": "0x84cdd36D94E5896FDbA64C2B1e1d2C3A55c57EDF",
+    "reDeploy": false
+  }
+}

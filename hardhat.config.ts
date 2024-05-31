@@ -36,6 +36,10 @@ const config: HardhatUserConfig = {
     hardhat: {
       zksync: true,
     },
+    testnetLocalFork:{
+      url: "http://localhost:8545",
+      zksync: true,
+    }
   },
   zksolc: {
     version: "latest",
